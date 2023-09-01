@@ -1,0 +1,4 @@
+SELECT trip_id, COUNT(*)
+FROM Trips_2019_Q4
+GROUP BY trip_id
+HAVING COUNT(*) > 1

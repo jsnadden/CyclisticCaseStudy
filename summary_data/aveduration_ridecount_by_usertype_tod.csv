@@ -1,0 +1,9 @@
+"usertype","time_of_day","ridecount","aveduration"
+"casual","Night",48408,97.9272626012229
+"casual","Morning",427887,52.9697937866773
+"casual","Afternoon",831746,53.3555672777507
+"casual","Evening",249522,56.4643099806831
+"member","Night",351824,13.6896565697622
+"member","Morning",1998303,13.0364397606369
+"member","Afternoon",2693844,14.3902338171772
+"member","Evening",817549,15.27967966813
